@@ -1,0 +1,26 @@
+{
+  "name": "optiic-pdf-to-text",
+  "version": "1.0.0",
+  "description": "PDF to Text extracts text from PDF documents and scanned files using OCR",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "pdf-to-text",
+    "pdf",
+    "ocr",
+    "text-extraction",
+    "document-processing",
+    "api",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "Optiic",
+  "license": "ISC",
+  "homepage": "https://optiic.dev",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/optiic/pdf-to-text.git"
+  }
+}
